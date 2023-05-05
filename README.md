@@ -1,6 +1,6 @@
 # Hyperiondev-markdown
 
-#Section A
+### Section A
 
 ```python
 class Solution:
@@ -17,7 +17,7 @@ ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 ```
 
-#NOTES
+#### NOTES
 
 1.  Classname should be informative  `class AnagramSolution:`
 2.  Your should indent your code to avoid IndentationError. Just like
@@ -37,7 +37,7 @@ ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 ```
 
-#Section B: Projects
+### Section B: Projects
 
 Annies' Design is an ecommerce website for a furniture shop.The website was developed using ReactJs, CSS, JavaScript as the frond end technologies and also Express, MongoDB was used as the backend technologies
 

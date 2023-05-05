@@ -53,5 +53,9 @@ Open [https://github.com/Kudzy92/anniesdesign-front](https://github.com/Kudzy92/
 Github repository link for backend.\  
 Open [https://github.com/Kudzy92/anniesdesign-backend](https://github.com/Kudzy92/anniesdesign-backend) to see the source code.
 
+1. #### `npm nodemon start index.js`
+2. #### `open the below link to the browser`
+   [https://localhost:3001](https://localhost:3001)
+
 Preview Link.\  
 Open [https://anniesdesign-front.vercel.app](https://anniesdesign-front.vercel.app) to preview.
